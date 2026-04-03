@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "LUZ ROJA (Slowed)",
+  "base_artist": "bxkq",
+  "createdAt": "2026-04-03T10:02:34.516753Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "LUZ ROJA - Slowed",
+      "artist": "bxkq",
+      "has_synced": true,
+      "path": "select/01_LUZ_ROJA_-_Slowed_bxkq.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "LUZ ROJA (Slowed)",
+      "artist": "bxkq",
+      "has_synced": true,
+      "path": "select/02_LUZ_ROJA_(Slowed)_bxkq.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "LUZ ROJA - Slowed (Official Audio)",
+      "artist": "bxkq",
+      "has_synced": true,
+      "path": "select/03_LUZ_ROJA_-_Slowed_(Official_Audio)_bxkq.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Luz Roja",
+      "artist": "Coda",
+      "has_synced": true,
+      "path": "select/04_Luz_Roja_Coda.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Luz Roja",
+      "artist": "coda",
+      "has_synced": true,
+      "path": "select/05_Luz_Roja_coda.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Luz Roja (Bonus)",
+      "artist": "Omar Rudberg",
+      "has_synced": true,
+      "path": "select/06_Luz_Roja_(Bonus)_Omar_Rudberg.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Luz Roja",
+      "artist": "Saox",
+      "has_synced": true,
+      "path": "select/07_Luz_Roja_Saox.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "LUZ ROJA",
+      "artist": "Nerve Agent",
+      "has_synced": true,
+      "path": "select/08_LUZ_ROJA_Nerve_Agent.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Luz Roja",
+      "artist": "Da Pawn",
+      "has_synced": true,
+      "path": "select/09_Luz_Roja_Da_Pawn.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Luz roja, luz blanca",
+      "artist": "Xa'LUM",
+      "has_synced": false,
+      "path": "select/10_Luz_roja,_luz_blanca_Xa'LUM.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Luz Roja",
+      "artist": "Döria",
+      "has_synced": true,
+      "path": "select/11_Luz_Roja_Döria.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "bxkq - LUZ ROJA - Super Slowed (Official Audio)",
+      "artist": "bxkq",
+      "has_synced": true,
+      "path": "select/12_bxkq_-_LUZ_ROJA_-_Super_Slowed_(Official_Audio)_bxkq.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "LUZ ROJA",
+      "artist": "Angela Torres",
+      "has_synced": true,
+      "path": "select/13_LUZ_ROJA_Angela_Torres.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "LUZ ROJA (Super Slowed)",
+      "artist": "bxkq",
+      "has_synced": true,
+      "path": "select/14_LUZ_ROJA_(Super_Slowed)_bxkq.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "LUZ ROJA - Alt Version - Slowed",
+      "artist": "bxkq",
+      "has_synced": true,
+      "path": "select/15_LUZ_ROJA_-_Alt_Version_-_Slowed_bxkq.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "LUZ ROJA (Alt Version - Slowed)",
+      "artist": "bxkq",
+      "has_synced": true,
+      "path": "select/16_LUZ_ROJA_(Alt_Version_-_Slowed)_bxkq.lrc"
+    }
+  ]
+}
